@@ -1,0 +1,6 @@
+{
+    "BootstrapServer": {
+        "Version": 1,
+        "Module": "BootstrapServer.lua"
+    }
+}
